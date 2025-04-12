@@ -6,7 +6,7 @@ An app designed to revolutionize the way you learn and master the Spanish langua
 
 ### Features:
 
-#### Word Frequencies at Your Fingertips
+#### Word Frequencies
 Unlock the power of context with accurate word frequency data. Learn which words are most commonly used, ensuring your study time is focused on practical and relevant vocabulary for real-world communication.
 
 #### Wiktionary-Powered
