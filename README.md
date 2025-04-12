@@ -1,5 +1,3 @@
-# CircleHard – Software Developer
-
 # Android Apps
 
 ## Learn Spanish Offline Dictionary with Anki Export
