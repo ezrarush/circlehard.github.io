@@ -22,7 +22,7 @@ Offline functionality means you can take the app wherever life takes you, withou
 Dive into the richness of the Spanish language with this awesome app – where words come to life and learning knows no bounds. Your journey to fluency starts here!
 
 # Privacy Policy
-Go to [privacy policy](learnspanishprivacy)
+Go to [privacy policy](learnspanishprivacy.md)
 
 # Contact Us  
 Reach out today!  
